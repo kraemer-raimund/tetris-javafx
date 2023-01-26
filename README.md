@@ -1,2 +1,3 @@
-# tetris-javafx
-Just-for-fun Tetris implementation using JavaFX.
+# Tetris
+
+A Tetris implementation that I created years ago just for fun using JavaFX. 
